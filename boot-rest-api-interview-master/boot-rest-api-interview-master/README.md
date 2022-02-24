@@ -40,6 +40,9 @@ Candidates can submit their assignments via:
   - [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (preferred)
   - Cloud storage of their choice
   - Email
+ 
+ ## About the project
+ Demo sample
 
 [1]: pom.xml
 [2]: https://en.wikipedia.org/wiki/SOLID
