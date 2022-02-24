@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: posmy.interview.boot.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 44.441 s <<< FAILURE! - in posmy.interview.boot.ApplicationTests
+contextLoads  Time elapsed: 1.725 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<401> but was:<404>
+	at posmy.interview.boot.ApplicationTests.contextLoads(ApplicationTests.java:34)
+
